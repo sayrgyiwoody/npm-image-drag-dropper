@@ -1,0 +1,17 @@
+{
+  "name": "image-drag-dropper",
+  "version": "1.0.1",
+  "description": "image-drag-dropper is a lightweight library designed to facilitate image drag and drop functionality",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wai Yan Tun",
+  "license": "ISC",
+  "keywords": [
+    "woody"
+  ]
+}
