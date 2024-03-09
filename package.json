@@ -1,6 +1,6 @@
 {
   "name": "image-drag-dropper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "image-drag-dropper is a lightweight library designed to facilitate image drag and drop functionality",
   "main": "index.js",
   "directories": {
@@ -13,5 +13,13 @@
   "license": "ISC",
   "keywords": [
     "woody"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayrgyiwoody/npm-image-drag-dropper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sayrgyiwoody/npm-image-drag-dropper/issues"
+  },
+  "homepage": "https://github.com/sayrgyiwoody/npm-image-drag-dropper#readme"
 }
